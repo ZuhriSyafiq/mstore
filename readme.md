@@ -1,9 +1,9 @@
 # Simple E-Commerce Website
 
 Untuk login admin tulis URL : http://localhost/mstore/auth/login_user
-user : admin
-pass : admin
-Di halaman admin berfungsi untuk memproses pesanan pelanggan, menginput barang, dan setting lokasi toko
+- user : admin
+- pass : admin
+Di halaman admin berfungsi untuk memproses pesanan pelanggan dan mengelola barang.
 ## 🚀 Features
 - Product listing and catalog
 - User authentication (login & register)
@@ -34,8 +34,10 @@ Di halaman admin berfungsi untuk memproses pesanan pelanggan, menginput barang, 
 
 ## ⚙️ Installation & Setup
 1. Clone repository
-bash git clone https://github.com/ZuhriSyafiq/mstore
-2. Move project to htdocs (XAMPP)
-3. Import database (.sql file) to phpMyAdmin
-4. Run on browser: http://localhost/mstore
+   ```bash
+   git clone https://github.com/ZuhriSyafiq/mstore
+   ```
+3. Move project to htdocs (XAMPP)
+4. Import database (.sql file in folder database) to phpMyAdmin
+5. Run on browser: http://localhost/nama-folder
 
