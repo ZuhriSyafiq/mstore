@@ -3,7 +3,7 @@
 Untuk login admin tulis URL : http://localhost/mstore/auth/login_user
 - user : admin
 - pass : admin
-Di halaman admin berfungsi untuk memproses pesanan pelanggan dan mengelola barang.
+<br> Di halaman admin berfungsi untuk memproses pesanan pelanggan dan mengelola barang. </br>
 ## 🚀 Features
 - Product listing and catalog
 - User authentication (login & register)
