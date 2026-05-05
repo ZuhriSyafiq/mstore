@@ -22,7 +22,7 @@ Di halaman admin berfungsi untuk memproses pesanan pelanggan, menginput barang, 
 ### Home Page
 ![Home](Dashboard.png)
 ### Product Page
-![Product](product.png)
+![Product](Product.png)
 ### Cart Page
 ![Cart](cart.png)
 ### Login
