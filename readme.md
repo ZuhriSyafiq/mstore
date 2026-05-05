@@ -20,13 +20,13 @@ Di halaman admin berfungsi untuk memproses pesanan pelanggan, menginput barang, 
 
 ## 📸 Screenshots
 ### Home Page
-![Home](home.png)
+![Home](Dashboard.png)
 ### Product Page
 ![Product](product.png)
 ### Cart Page
 ![Cart](cart.png)
 ### Login
-![Login](login.png)
+![Login](Login.png)
 ### Checkout
 ![Checkout](checkout.png)
 ### Admin
